@@ -5,6 +5,8 @@
 <Dir>
   
 ## dir
-boot*****
-web*****
+boot***** 
+
+web***** 
+
 ==> example dir
